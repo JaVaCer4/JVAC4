@@ -9,3 +9,5 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 
 ## Tecnologías
 - Java SpringBoot
+
+repaso de los comandos vistos ayer commit y push 
