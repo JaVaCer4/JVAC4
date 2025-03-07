@@ -11,3 +11,5 @@ Esta es una aplicación web simple para gestionar tareas. Fue creada para aprend
 - Java SpringBoot
 
 repaso de los comandos vistos ayer commit y push 
+
+ESTE ES EL ARCHIVO DE QA PARA HACER UN MERGE CON MAIN
